@@ -1,0 +1,1 @@
+Checks Spain's consulate [listed here](https://www.exteriores.gob.es/Consulados/toronto/es/ServiciosConsulares/Paginas/index.aspx?scco=Canad%c3%a1&scd=280&scca=Pasaportes+y+otros+documentos&scs=Pasaportes+-+Requisitos+y+procedimiento+para+obtenerlo) for available appointments. Takes a screenshot of the webpage and sends an SMS when an appointment is available.
